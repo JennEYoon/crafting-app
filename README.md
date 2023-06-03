@@ -1,6 +1,6 @@
 # crafting-app
 
-A personal project for managing crafting supplies and for getting design ideas.  
+A personal mobile app project for managing crafting supplies and for getting design ideas.  
 Later, may develop social networking to sell or trade crafting supplies or handmade crafts.  
 Main area: Handmade Cards.  
 
