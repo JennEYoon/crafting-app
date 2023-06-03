@@ -20,5 +20,13 @@ Main area: Handmade Cards.
 Later:  
  * SplitcoastStampers -- webscrape for design ideas, build recommendation engine based on user uploaded designs.  
  * Add-on to graphics library? Design phase, change colors for background and image coloring.  
+ * Add-on to MDS software?  Photoshop software?  
+
+Test Cases:  
+ * Upload a receipt, auto-populate inventory  table and upload images from seller's website or manufacturer's website.  
+ * Categorize inventory into major (stamps, dies, punches, emb folders, stencils), and minor (cardstock, inks, inkpads, decorative paper, tape & glue).  
+ * Color themes - cardstock, ink refill, ink pad, water dye marker, alcohol markers, multi-medium markers, decortaive paper (multi color family).  
+ * Otther tools and supplies, cutting, measuring, pencils, white gel pen, dew drops etc.  
+ * Accessories, Embellishments, stickers, pre-punched shapes, brads, ribbons.  
 
 
