@@ -1,4 +1,4 @@
-# crafting-app
+# crafting-app : Private initially  
 
 A personal mobile app project for managing crafting supplies and for getting design ideas.  
 Later, may develop social networking to sell or trade crafting supplies or handmade crafts.  
