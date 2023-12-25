@@ -4,8 +4,9 @@ A crafting blog for my card making and other crafts.
 Upload images and content from 3rd source, Google Drive?  AWS bucket?  Cloudflare bucket for transfer out fees?  
 
 A personal mobile app project for managing crafting supplies and for getting design ideas.  
+
 Later, may develop social networking to sell or trade crafting supplies or handmade crafts.  
-Main area: Handmade Cards.  
+Main area: Handmade Cards.  Design cards  
 
 ### Date start: May 25, 2023  
 
