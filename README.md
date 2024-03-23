@@ -1,4 +1,10 @@
-# crafting blog & app dev : Private initially  
+# designing-cards repo, AI powered app development  
+
+Date: March 2024 update  
+Author: Jennifer E Yoon
+
+card designing app development, code powered by AI  
+Public: 3/23/2024  
 
 A crafting blog for my card making and other crafts.   
 Upload images and content from 3rd source, Google Drive?  AWS bucket?  Cloudflare bucket for transfer out fees?  
