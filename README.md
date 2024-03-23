@@ -1,22 +1,22 @@
 # designing-cards repo, AI powered app development  
 
-Date: March 2024 update  
-Author: Jennifer E Yoon
-
-card designing app development, code powered by AI  
+### Date: March 2024 update    
+Author: Jennifer E Yoon  
+card designing app development, code use AI  
 Public: 3/23/2024  
 
-A crafting blog for my card making and other crafts.   
+A repo for card designing app and other crafting apps.   
 Upload images and content from 3rd source, Google Drive?  AWS bucket?  Cloudflare bucket for transfer out fees?  
 
 A personal mobile app project for managing crafting supplies and for getting design ideas.  
 
 Later, may develop social networking to sell or trade crafting supplies or handmade crafts.  
-Main area: Handmade Cards.  Design cards  
+Main area: Handmade Cards. card design  
+
 
 ### Date start: May 25, 2023  
-
-### Author: Jennifer E Yoon  
+Author: Jennifer E Yoon  
+Repo: craft-app, private  
 
 ### Tool Chain:  
 
