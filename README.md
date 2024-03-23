@@ -16,7 +16,7 @@ Main area: Handmade Cards. card design
 
 ### Date start: May 25, 2023  
 Author: Jennifer E Yoon  
-Repo: craft-app, private  
+Repo: crafting-app, private  
 
 ### Tool Chain:  
 
