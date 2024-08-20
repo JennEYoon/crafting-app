@@ -1,8 +1,8 @@
-# designing-cards repo, AI powered app development  
+# designing-cards repo, crafts, AI, project  
 
 ### Date: March 2024 update    
 Author: Jennifer E Yoon  
-card designing app development, code use AI  
+card designing app development, code uses AI  
 Public: 3/23/2024  
 
 A repo for card designing app and other crafting apps.   
