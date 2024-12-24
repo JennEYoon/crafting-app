@@ -1,5 +1,14 @@
 # designing-cards repo, crafts, AI, project  
 
+
+## Dec 24, 2024 thoughts:  
+Discuss using AI with Bill.  
+Develop inventory management first.  
+Take photo of SU stamp box spines - auto-recognize text, add to inventory.  
+Then download images from online catelogue, populate inventory with stamp images (registration images)  
+
+Find items based on text or drawn shape, ex. star shapes.  
+
 ### Date: March 2024 update    
 Author: Jennifer E Yoon  
 card designing app development, code uses AI  
